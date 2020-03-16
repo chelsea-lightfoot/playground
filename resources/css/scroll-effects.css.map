@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU,CACR,KAAK,CCDS,IAAI,CDElB,SAAS,CAAE,IAAI",
+"sources": ["../scss/scroll-effects/_page.scss","../scss/scroll-effects/_variables.scss"],
+"names": [],
+"file": "scroll-effects.css"
+}
